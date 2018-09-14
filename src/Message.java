@@ -7,6 +7,7 @@ public class Message {
 	
 	public static String getMessage2()
 	{
-		return "Hello";
+		String s = "Hello"
+		return s;
 	}
 }
