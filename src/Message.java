@@ -2,7 +2,8 @@
 public class Message {
 	public static String getMessage()
 	{
-		return "Hello Planets!";
+		String s = "Hello Planets!";
+		return s;
 	}
 	
 	public static String getMessage2()
