@@ -3,6 +3,7 @@ public class Message {
 	public static String getMessage()
 	{
 		String s = "Hello Planets!";
+		s += " word";
 		return s;
 	}
 	
